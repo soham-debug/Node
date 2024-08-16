@@ -50,6 +50,8 @@ app.post('/person', async(req, res)=>{
 })
 const lib = require('./router/lib');
 app.use('/library', lib);
+
+//Listening
 app.listen(3000, () => {
     console.log("Server is running");
 });
