@@ -9,7 +9,7 @@
   "author": "Soham Kadtan",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2",
+    "express": "^4.20.0",
     "lodash": "^4.17.21",
     "mongod": "^2.0.0",
     "mongoose": "^8.4.4"
